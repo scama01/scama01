@@ -1,4 +1,12 @@
-### Hi there 👋
+### helo 👋🏻
+
+i'm andrew (a.k.a. scama), and i am a web developer mainly working with react.
+i also know how to work with svelte but it's not my main framework.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scama01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![scama01's GitHub stats](https://github-readme-stats.vercel.app/api?username=scama01)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **scama01/scama01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
